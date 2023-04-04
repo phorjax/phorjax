@@ -1,12 +1,15 @@
-# Hi there, I'm Anthony - aka [phorjax] 👋 
+# Hey!, I'm Anthony 👋 
 
 ## I'm a Developer, Fighter, Basketball player, and Husband!!
 
-- 🔭 Check out my LinkedIn profile: [profile!][profile]!
 - 🌱 I’m currently trying to obtain all infinity stones (programming languages) 🤣
 - 👯 I’m looking to collaborate with other coders
-- 🥅 2023 Goals: Become an expert on Python
-- ⚡ Fun fact: I love to do sports, ones of my favorites are basketball and kickboxing
+- 🥅 2023 Goals: Become an expert on back end and get to the 6 figure digits
+- ⚡ Fun fact: I love to do sports, one of my favorites are basketball and kickboxing
+
+### How to reach me:
+- Check out my [LinkedIn][profile]
+- joseph.12082@gmail.com
 
 
 ### Languages and Tools:
