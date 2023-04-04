@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I love to do sports, one of my favorites are basketball and kickboxing
 
 ### How to reach me:
-- Check out my [LinkedIn][profile]
+- Check out my [LinkedIn profile][profile]
 - joseph.12082@gmail.com
 
 
