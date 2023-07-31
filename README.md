@@ -30,7 +30,9 @@
 <img align="left" alt="Javalin" width="26px" src="https://w7.pngwing.com/pngs/170/924/png-transparent-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-microsoft-azure.png" style="padding-right:10px;" /> 
 <img align="left" alt="Javalin" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" style="padding-right:10px;" />
 <br />
- #### Statistics
+
+
+ ### Statistics
 <details>
   <summary>:zap: GitHub Stats</summary>
 
