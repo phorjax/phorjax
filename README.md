@@ -28,12 +28,8 @@
 <img align="left" alt="Java" width="26px" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Emblem.jpg" style="padding-right:10px;" />
 <img align="left" alt="Javalin" width="26px" src="https://repository-images.githubusercontent.com/87012358/0b271d34-874d-4e03-ba36-0c7948bbebac" style="padding-right:10px;" />
 
-
-
-__
-
 <br />
-
+__
 <details>
   <summary>:zap: GitHub Stats</summary>
 
