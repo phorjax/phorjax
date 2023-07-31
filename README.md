@@ -24,6 +24,12 @@
 <img align="left" alt="Flask" width="26px" src="https://miro.medium.com/v2/resize:fit:438/1*0G5zu7CnXdMT9pGbYUTQLQ.png" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="https://repository-images.githubusercontent.com/87012358/0b271d34-874d-4e03-ba36-0c7948bbebac" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="[https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png](https://w7.pngwing.com/pngs/106/519/png-transparent-tailwind-css-hd-logo.png)" style="padding-right:10px;" />
+
+
+
 
 <br />
 
