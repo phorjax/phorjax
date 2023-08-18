@@ -36,7 +36,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  [![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=phorjax)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=phorjax&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
   [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=phorjax&langs_count=6&theme=codeSTACKr)]()
 </details>
