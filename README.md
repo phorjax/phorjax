@@ -15,14 +15,16 @@
 ### Languages and Tools:
 
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="TS" width="26px" src="https://pbs.twimg.com/profile_images/1648471227416346625/v84A9gXA_400x400.png" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" style="padding-right:10px;" />
 <img align="left" alt="Flask" width="26px" src="https://miro.medium.com/v2/resize:fit:438/1*0G5zu7CnXdMT9pGbYUTQLQ.png" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="Java" width="26px"  src="https://1000logos.net/wp-content/uploads/2020/09/Java-Emblem.jpg" style="padding-right:10px;" />
 <img align="left" alt="Javalin" width="26px" src="https://repository-images.githubusercontent.com/87012358/0b271d34-874d-4e03-ba36-0c7948bbebac" style="padding-right:10px;" />
-<img align="left" alt="Javalin" width="26px" src="https://w7.pngwing.com/pngs/170/924/png-transparent-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-microsoft-azure.png" style="padding-right:10px;" /> 
-<img align="left" alt="Javalin" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" style="padding-right:10px;" />
+<img align="left" alt=".NET" width="26px"  src="https://learn.microsoft.com/media/logos/logo_net.svg" style="padding-right:10px;" />
+<img align="left" alt="SQL" width="26px" src="https://w7.pngwing.com/pngs/170/924/png-transparent-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-microsoft-azure.png" style="padding-right:10px;" /> 
+<img align="left" alt="MySQL" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" style="padding-right:10px;" />
+<img align="left" alt="MongoDB" width="26px" src="[https://cdn-icons-png.flaticon.com/512/5968/5968313.png](https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png)" style="padding-right:10px;" />
+
 <br />
 
 
