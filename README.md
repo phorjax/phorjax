@@ -23,7 +23,7 @@
 <img align="left" alt=".NET" width="26px"  src="https://learn.microsoft.com/media/logos/logo_net.svg" style="padding-right:10px;" />
 <img align="left" alt="SQL" width="26px" src="https://w7.pngwing.com/pngs/170/924/png-transparent-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-microsoft-azure.png" style="padding-right:10px;" /> 
 <img align="left" alt="MySQL" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" style="padding-right:10px;" />
-<img align="left" alt="MongoDB" width="26px" src="[https://cdn-icons-png.flaticon.com/512/5968/5968313.png](https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png)" style="padding-right:10px;" />
+<img align="left" alt="MongoDB" width="26px" src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png" style="padding-right:10px;" />
 
 <br />
 
