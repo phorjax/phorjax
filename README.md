@@ -18,7 +18,7 @@
 <img align="left" alt="TS" width="26px" src="https://pbs.twimg.com/profile_images/1648471227416346625/v84A9gXA_400x400.png" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" style="padding-right:10px;" />
 <img align="left" alt="Flask" width="26px" src="https://miro.medium.com/v2/resize:fit:438/1*0G5zu7CnXdMT9pGbYUTQLQ.png" style="padding-right:10px;" />
-<img align="left" alt="Java" width="26px"  src="https://skilldistillery.com//wp-content/uploads/2016/03/Java_logo.png" style="padding-right:10px;" />
+<img align="left" alt="Java" width="26px"  src="https://education.oracle.com/file/general/p-80-java.png" style="padding-right:10px;" />
 <img align="left" alt="Javalin" width="26px" src="https://repository-images.githubusercontent.com/87012358/0b271d34-874d-4e03-ba36-0c7948bbebac" style="padding-right:10px;" />
 <img align="left" alt=".NET" width="26px"  src="https://learn.microsoft.com/media/logos/logo_net.svg" style="padding-right:10px;" />
 <img align="left" alt="SQL" width="26px" src="https://w7.pngwing.com/pngs/170/924/png-transparent-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-microsoft-azure.png" style="padding-right:10px;" /> 
