@@ -1,11 +1,11 @@
 # Hey!, I'm Anthony 👋 
 
-## I'm a Developer, Fighter, and Basketball player!!
+## I'm a Developer, Fighter, Basketball player!!
 
 - 🌱 I’m currently trying to obtain all infinity stones (programming languages) 🤣
 - 👯 I’m looking to collaborate with other coders
 - 🥅 2023 Goals: Become an expert on back end and get to the 6 figure digits
-- ⚡ Fun fact: I love doing sports, one of my favorites are basketball and kickboxing
+- ⚡ Fun fact: I love doing sports, some of my favorites are basketball and kickboxing
 
 ### How to reach me:
 - Check out my [LinkedIn profile][profile]
