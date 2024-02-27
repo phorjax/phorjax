@@ -1,6 +1,6 @@
 # Hey!, I'm Anthony 👋 
 
-## I'm a Developer, Fighter, and Basketball player!!
+## I'm a Developer, Fighter, and Husband!!
 
 - 🌱 I’m currently trying to obtain all infinity stones (programming languages) 🤣
 - 👯 I’m looking to collaborate with other coders
