@@ -32,7 +32,7 @@
 
   [![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=phorjax&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
-  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=phorjax&langs_count=6&theme=codeSTACKr)]()
+  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=phorjax&langs_count=7&theme=codeSTACKr)]()
 </details>
 
 [profile]: https://www.linkedin.com/in/anthony-gomez-59b3a723a/
