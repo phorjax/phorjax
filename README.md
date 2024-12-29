@@ -4,8 +4,7 @@
 
 - 🌱 I’m currently trying to obtain all infinity stones (programming languages) 🤣
 - 👯 I’m looking to collaborate with other coders
-- 🥅 2023 Goals: Become an expert on back end and get to the 6 figure digits
-- ⚡ Fun fact: I love doing sports, one of my favorites is kickboxing
+- ⚡ Fun fact: I love doing sports and challenging things, one of my favorites is kickboxing
 
 ### How to reach me:
 - Check out my [LinkedIn profile][profile]
